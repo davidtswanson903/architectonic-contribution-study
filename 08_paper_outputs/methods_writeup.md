@@ -1,0 +1,3 @@
+# Methods Writeup
+
+This empirical component was designed as a transparent diagnostic audit rather than a definitive sociology of philosophical publishing. To reduce discretionary sampling, the journal universe, sampling script, random seed, generated sample, document index, and coded outputs are preserved and can be hashed. The coding remains interpretive, so the study reports confidence levels, preserves evidence excerpts, and distinguishes primary and secondary contribution types.

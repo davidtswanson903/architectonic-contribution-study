@@ -1,0 +1,13 @@
+{
+  "seed": 20260519,
+  "sample_size": 20,
+  "sampling_method": "stratified_random",
+  "strata": [
+    "generalist",
+    "interdisciplinary",
+    "specialist",
+    "applied"
+  ],
+  "year_for_article_audit": 2025,
+  "include_only_active_peer_reviewed": true
+}

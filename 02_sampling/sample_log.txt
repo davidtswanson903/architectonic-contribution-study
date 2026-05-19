@@ -1,0 +1,7 @@
+timestamp_utc: 2026-05-19T15:20:11.900283+00:00
+seed: 20260519
+sampling_method: stratified_random
+configured_sample_size: 20
+journal_universe_rows: 0
+eligible_rows: 0
+sampled_rows: 0
