@@ -1,1 +1,1 @@
-evidence_id,journal_id,document_id,code_category,quoted_text,page_or_section,url,access_date,interpretive_note
+evidence_id,journal_id,document_id,code_supported,quoted_text,location_or_section,interpretive_note,confidence
